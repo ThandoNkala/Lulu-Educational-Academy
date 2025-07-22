@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'playfair';
+    font-family: 'Euphoria';
+   
+    src: url('../src/assets/fonts/PlayfairDisplay-Regular.ttf');
+    src: url('../src/assets/fonts/EuphoriaScript-Regular.ttf');
+
+}
+
+@import "tailwindcss";
+ 
+@theme{
+    --font-playfair: 'playfair', serif;
+    --font-euphoria: 'Euphoria', cursive;
+}
