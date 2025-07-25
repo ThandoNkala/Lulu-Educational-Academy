@@ -9,7 +9,7 @@ function Admission() {
 
   return (
    <> 
-   
+    
    <Join/>
    <Form/>
    <Details/>

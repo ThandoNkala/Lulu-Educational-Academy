@@ -13,7 +13,7 @@ function AboutUs() {
   <WhyLulu />
   <Board />
   </>
-  );
+  ); 
 }
  
 export default AboutUs  

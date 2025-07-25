@@ -13,3 +13,7 @@
     --font-playfair: 'playfair', serif;
     --font-euphoria: 'Euphoria', cursive;
 }
+
+body{
+    overflow-x: hidden;
+}

@@ -5,17 +5,17 @@ function Testimonials(){
    return(
           <>
           
-    <section className='mt-27 flex flex-col justify-center align-center h-[100vh] font-playfair'>
+    <section className='md:mt-27 flex flex-col justify-center align-center h-[100vh] font-playfair '>
         <h1 className='text-3xl font-bold text-[#461B36] text-center'>What people think about <br />
            Lulu Academy</h1>
 
            <div className='h-80 flex flex-wrap  justify-center align-center mt-10 '>
 
-            <div className=' w-100 rounded-3xl shadow-2xl bg-white'>
+            <div className='md:block hidden w-100 rounded-3xl shadow-2xl bg-white'>
                 <div className=' m-10 flex align-center'>
                 <div className='rounded-full w-13 h-13 bg-[url("/src/images/Ba.png")] bg-contain bg-center bg-no-repeat'>
                 </div>
-                 <h1 className=' m-3 text-lg font-semibold text-[#461B36]'>Ba Ewu</h1>
+                 <h1 className='m-3 text-lg font-semibold text-[#461B36]'>Ba Ewu</h1>
                 </div>
                 <p className='text-[#461B36] m-10'>"Lulu Academy is a beacon of hope
                      for our community. I appreciate how the school focuses
@@ -24,7 +24,7 @@ function Testimonials(){
                         and compassionate adults."</p>
             </div>
 
-        <div className=' w-100 rounded-3xl shadow-2xl bg-white'>
+        <div className='md:w-100 w-85 rounded-3xl shadow-2xl bg-white'>
                 <div className=' m-10 flex align-center'>
                 <div className='rounded-full w-13 h-13 bg-[url("/src/images/Dylan.png")] bg-contain bg-center bg-no-repeat'>
                 </div>
@@ -39,7 +39,7 @@ function Testimonials(){
                      excellence."</p>
             </div>
 
-            <div className=' w-100 rounded-3xl shadow-2xl bg-white'>
+            <div className='md:block hidden w-100 rounded-3xl shadow-2xl bg-white'>
                 <div className=' m-10 flex align-center'>
                 <div className='rounded-full w-13 h-13 bg-[url("/src/images/Mai.png")] bg-contain bg-center bg-no-repeat'>
                 </div>
