@@ -7,7 +7,7 @@ function Form() {
                  </div>
        <div className="flex flex-wrap  md:ml-10">
 
-        <form className="bg-white p-6 ">
+        <form action="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" className="bg-white p-6 ">
               <h2 className="text-2xl font-bold mb-4 font-playfair text-[#461B36]">YOUR DETAILS </h2>
             <div className="mb-4 flex flex-col md:flex-row gap-4">
             <div className="mb-4">
