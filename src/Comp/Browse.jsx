@@ -3,7 +3,7 @@
 function Browse() {
   return (
   <>
-  <section className='md:mt-25 mt-50 container mx-auto'>
+  <section className='md:mt-35 mt-50 container mx-auto'>
   <div>
     <h1 className='flex flex justify-center items-center m-4 text-3xl font-semibold font-playfair text-[#461B36]'>Browse Subjects</h1>
   </div>
@@ -13,10 +13,10 @@ function Browse() {
    <div className="flex flex-wrap flex-col-reverse md:flex-row justify-around mt-10 items-center">
    <div className="border-2 rounded-[50px] border-dotted p-3 md:w-100 w-80 md:h-107 h-80 mt-10 ">
     <div className="imgz grid grid-cols-2 ">
-        <img className='md:h-50 h-36' src="src/sub-pics/pic1.png" alt="pic 1" />
-        <img className='md:h-50 h-36' src="src/sub-pics/pic2.png" alt="pic 2" />
-        <img className='md:h-50 h-36' src="src/sub-pics/pic3.png" alt="pic 3" />
-        <img className='md:h-50 h-36' src="src/sub-pics/pic4.png" alt="pic 4" />
+        <img className='md:h-50 h-36' src="/pic1.png" alt="pic 1" />
+        <img className='md:h-50 h-36' src="/pic2.png" alt="pic 2" />
+        <img className='md:h-50 h-36' src="/pic3.png" alt="pic 3" />
+        <img className='md:h-50 h-36' src="/pic4.png" alt="pic 4" />
     </div> 
    </div>
    <div className="md:p-3 w-100 h-80 y-hidden overflow-y-scroll scrollbar-hidden">

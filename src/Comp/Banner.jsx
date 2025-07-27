@@ -5,7 +5,7 @@ function Banner() {
     <>
       <section className="">
         <div className="banner ">
-          <div className="h-screen bg-w-1/2 bg-[url('./src/images/game-icons_graduate-cap.png')] bg-contain bg-center bg-no-repeat">
+          <div className="h-screen bg-w-1/2 bg-[url('images/game-icons_graduate-cap.png')] bg-contain bg-center bg-no-repeat">
             <div className="md:flex flex-wrap md:justify-between items-center container mx-auto">
               <div className="text-[#461B36] text-center md:text-left md:w-1/2 w-full mt-20">
                 <h2 className="md:text-6xl text-6xl  italic font-euphoria">
@@ -29,7 +29,7 @@ function Banner() {
                   className="md:h-139 h-100  md:w-[100%] w-100
                    relative top-[-115px]
                     rounded-full "
-                  src="src/images/kid2.png"
+                  src="/kid2.png"
                   alt=""
                 />
               </div>

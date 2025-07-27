@@ -14,7 +14,7 @@ function Student(){
 
          <div className="md:block hidden flex flex-col border w-100 h-150 rounded-[15px] group overflow-hidden relative hover:shadow-lg hover:border-none font-playfair">
   
-  <img className="h-100 w-100 p-5 transition-opacity duration-1000 group-hover:opacity-0" src="src/images/Charlie.png" alt="student 3"/>
+  <img className="h-100 w-100 p-5 transition-opacity duration-1000 group-hover:opacity-0" src="/Charlie.png" alt="student 3"/>
   <div className="transition-all duration-900 group-hover:-translate-y-70 ">
     <h2 className="pl-5 text-lg font-semibold text-[#461B36]">Ask Charlie</h2>
     <p className="p-5 text-[#461B36]">
@@ -29,7 +29,7 @@ function Student(){
 
            <div className="md:block hidden  flex flex-col border w-100 h-150 rounded-[15px] group overflow-hidden relative hover:shadow-lg hover:border-none font-playfair">
   
-  <img className="h-100 w-100 p-5 transition-opacity duration-1000 group-hover:opacity-0" src="src/images/Oli.png" alt="student 3"/>
+  <img className="h-100 w-100 p-5 transition-opacity duration-1000 group-hover:opacity-0" src="/Oli.png" alt="student 3"/>
   <div className="transition-all duration-900 group-hover:-translate-y-70">
     <h2 className="pl-5 text-lg font-semibold text-[#461B36]">Ask Olivia</h2>
     <p className="p-5 text-[#461B36]">
@@ -44,7 +44,7 @@ function Student(){
 
       <div className="flex flex-col border md:w-100 w-85 md:h-150 h-135 rounded-[15px] group overflow-hidden relative hover:shadow-lg hover:border-none font-playfair">
   
-  <img className="h-100 w-100 p-5 transition-opacity duration-1000 group-hover:opacity-0" src="src/images/Simba.png" alt="student 3"/>
+  <img className="h-100 w-100 p-5 transition-opacity duration-1000 group-hover:opacity-0" src="/Simba.png" alt="student 3"/>
   <div className="transition-all duration-900 group-hover:-translate-y-70">
     <h2 className="pl-5 text-lg font-semibold text-[#461B36]">Ask Simba</h2>
     <p className="p-5 text-[#461B36]">

@@ -13,7 +13,7 @@ function Testimonials(){
 
             <div className='md:block hidden w-100 rounded-3xl shadow-2xl bg-white'>
                 <div className=' m-10 flex align-center'>
-                <div className='rounded-full w-13 h-13 bg-[url("/src/images/Ba.png")] bg-contain bg-center bg-no-repeat'>
+                <div className='rounded-full w-13 h-13 bg-[url("/Ba.png")] bg-contain bg-center bg-no-repeat'>
                 </div>
                  <h1 className='m-3 text-lg font-semibold text-[#461B36]'>Ba Ewu</h1>
                 </div>
@@ -26,7 +26,7 @@ function Testimonials(){
 
         <div className='md:w-100 w-85 rounded-3xl shadow-2xl bg-white'>
                 <div className=' m-10 flex align-center'>
-                <div className='rounded-full w-13 h-13 bg-[url("/src/images/Dylan.png")] bg-contain bg-center bg-no-repeat'>
+                <div className='rounded-full w-13 h-13 bg-[url("/Dylan.png")] bg-contain bg-center bg-no-repeat'>
                 </div>
                  <h1 className=' m-3 text-lg font-semibold text-[#461B36]'>Ba Dylan</h1>
                 </div>
@@ -41,7 +41,7 @@ function Testimonials(){
 
             <div className='md:block hidden w-100 rounded-3xl shadow-2xl bg-white'>
                 <div className=' m-10 flex align-center'>
-                <div className='rounded-full w-13 h-13 bg-[url("/src/images/Mai.png")] bg-contain bg-center bg-no-repeat'>
+                <div className='rounded-full w-13 h-13 bg-[url("/Mai.png")] bg-contain bg-center bg-no-repeat'>
                 </div>
                  <h1 className=' m-3 text-lg font-semibold text-[#461B36]'>Mai Momo</h1>
                 </div>

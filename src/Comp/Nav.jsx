@@ -9,7 +9,7 @@ function nav() {
     <div className="nav-items flex justify-between items-center  shadow-lg/30 p-4 bg-white">
       <div className="logo">
         <Link to="/">
-          <img src="src/images/logo lulu.png" alt="logo" />
+          <img src="/logo lulu.png" alt="logo" />
         </Link>
       </div>
 

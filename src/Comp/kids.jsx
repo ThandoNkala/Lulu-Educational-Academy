@@ -33,7 +33,7 @@ function Kids() {
         <div className="mt-25 md:block hidden flex-col justify-between items-center w-141 h-130">
           <img
             className="h-130 w-150 mt-7 object-cover rounded-3xl"
-            src="src/images/hug.png"
+            src="/hug.png"
             alt="kids"
           />
         </div>

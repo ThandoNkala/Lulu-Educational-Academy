@@ -24,7 +24,7 @@ function WhyLulu() {
                   lessons, break-times, study periods and practice. </p>
             </div>
 
-             <div className="bg-[url('./src/images/tennis.png')] bg-cover bg-center h-45 md:w-100 w-90 rounded-2xl"></div>
+             <div className="bg-[url('/tennis.png')] bg-cover bg-center h-45 md:w-100 w-90 rounded-2xl"></div>
             <div className="bg-[#461B36] h-45 md:w-100 w-90 rounded-2xl">
                 <h1 className="text-white m-5 text-2xl font-playfair">Team of  <br />trainers </h1>
                  <p className="text-white font-playfair ml-5">Through sport, we promote teamwork, <br />
@@ -32,7 +32,7 @@ function WhyLulu() {
             </div>
         </div>
         <div className='mt-10 flex flex-wrap justify-around align-center '>
-          <div className="bg-[url('./src/images/Raket.png')] bg-cover bg-center h-45 md:w-100 w-90 rounded-2xl"></div>
+          <div className="bg-[url('/Raket.png')] bg-cover bg-center h-45 md:w-100 w-90 rounded-2xl"></div>
              <div className="bg-[#461B36] h-45 w-210 rounded-2xl flex justify-between md:block hidden">
                 <div>
                   <h1 className="text-white m-5 text-2xl font-playfair">Lorem ipsum dolor <br />
