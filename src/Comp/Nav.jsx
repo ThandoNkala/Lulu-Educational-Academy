@@ -100,37 +100,37 @@ function nav() {
             />
           </svg>
           {menu && (
-            <div className="absolute mt-2 -ml-35 w-40 rounded-md shadow-lg bg-white border border-gray-200 z-10 text-[#461B36]">
+            <div className="absolute mt-2 -ml-35 w-50  h-45  rounded-md shadow-lg bg-white border border-gray-200 z-10 text-[#461B36]">
               <Link
                 to="/"
-                className="block  text-sm text-[#461B36] hover:bg-[#461B30]/25"
+                className="block  text-2xl font-playfair font-semi-bold text-[#461B36] hover:bg-[#461B30]/25"
               >
                 Home
               </Link> 
 
                  <Link
                 to="/aboutus"
-                className="block  text-sm text-[#461B36] hover:bg-[#461B30]/25"
+                className="block  text-2xl font-playfair font-semi-bold text-[#461B36] hover:bg-[#461B30]/25"
               >
                 About Us
               </Link>
 
               <Link
                 to="/newsroom"
-                className="block  text-sm text-[#461B36] hover:bg-[#461B30]/25"
+                className="block  text-2xl font-playfair font-semi-bold text-[#461B36] hover:bg-[#461B30]/25"
               >
                 Newsroom
               </Link>
 
                <Link
                 to="/athletics"
-                className="block  text-sm text-[#461B36] hover:bg-[#461B36]/25"
+                className="block  text-2xl font-playfair font-semi-bold text-[#461B36] hover:bg-[#461B36]/25"
               >
                 Athletics
               </Link>
               <Link
                 to="/admission"
-                className="block  text-sm text-[#461B36] hover:bg-[#461B36]/25"
+                className="block  text-2xl font-playfair font-semi-bold text-[#461B36] hover:bg-[#461B36]/25"
               >
                 Admission
               </Link>
