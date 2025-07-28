@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Banner() {
   return (
     <>
-      <section className="">
+      <section className="overflow-hidden">
         <div className="banner ">
           <div className="h-screen bg-w-1/2 bg-[url('images/game-icons_graduate-cap.png')] bg-contain bg-center bg-no-repeat">
             <div className="md:flex flex-wrap md:justify-between items-center container mx-auto">
