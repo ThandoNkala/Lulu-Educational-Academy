@@ -4,6 +4,7 @@ function Footer() {
   return (
     <>
       <section className="flex flex-wrap justify-center items-center font-playfairmt-100 text-center md:text-left container mx-auto">
+        <hr className="border border-[#461B36] font-playfair w-full" />
         <div className="md:ml-5">
           <img src="/logo lulu.png" alt="Lulu Academy Logo" />
           <p className="text-[#461B36] mt-5">
