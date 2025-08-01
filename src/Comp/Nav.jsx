@@ -22,10 +22,10 @@ function nav() {
             <Link to="/aboutus">About Us</Link>
           </li>
 
-          <div className="relative inline-block text-left">
+          <div className="relative inline-block text-center">
             <button
               onClick={() => setOpen(!open)}
-              className="flex bg-transparent border border-[#461B36] text-[#461B36]  rounded "
+              className="flex bg-transparent   border border-[#461B36] text-[#461B36]  rounded "
             >
               {" "}
               Additional info{" "}
