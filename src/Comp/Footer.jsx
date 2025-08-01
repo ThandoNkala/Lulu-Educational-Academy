@@ -23,7 +23,7 @@ function Footer() {
               </div>
             </div>
           </div>
-          <div className="flex  flex-wrap justify-between md:w-95 w-90 h-90 items-center md:mt-10 -mt-30 container mx-auto ">
+          <div className="flex flex-wrap justify-between md:w-100 w-90 h-90 items-center md:mt-10 -mt-30 container mx-auto ">
             <div className="md:block hidden">
               <ul className="flex flex-col justify-between h-40 ">
                 <li className="text-white font-bold text-2xl">Company</li>
@@ -42,17 +42,17 @@ function Footer() {
               </ul>
             </div>
 
-            <div className=" w-full">
+            <div className=" w-full md:w-50">
               <ul className="flex flex-col md:justify-between justify-center h-40 ">
                 <li className="text-white font-bold text-2xl">Contact Us</li>
                 <li className="text-white md:list-disc">
                   <a href="">+263 786 543 77</a>
                 </li>
                 <li className="text-white md:list-disc">
-                  <a href="">luluacademy@gmail.com</a>
+                  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">luluacademy@gmail.com</a>
                 </li>
                 <li className="text-white md:list-disc">
-                  <a href="">5467 Smart Corner </a>
+                  <a href="https://maps.app.goo.gl/ricsjMDgnsDb6rWk7">5467 Smart Corner </a>
                 </li>
               </ul>
             </div>
@@ -66,7 +66,7 @@ function Footer() {
           <div className="md:w-120 w-35">
             <ul className="flex md:flex-row flex-col justify-around  md:w-120 w-40 underline ">
               <li className="text-white">
-                <a href="">Privacy Policy </a>
+                <a href="https://policies.google.com/privacy?hl=en-US">Privacy Policy </a>
               </li>
               <li className="text-white">
                 <a href="">Terms of Service </a>
