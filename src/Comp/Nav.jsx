@@ -100,7 +100,7 @@ function nav() {
             />
           </svg>
           {menu && (
-            <div className="absolute mt-2 -ml-35 w-40  h-45  rounded-md shadow-lg bg-white border border-gray-200 z-10 text-[#461B36]">
+            <div className="absolute mt-2 -ml-35 w-45  h-45  rounded-md shadow-lg bg-white border border-gray-200 z-10 text-[#461B36]">
               <Link
                 to="/"
                 className="block  text-2xl font-playfair font-semi-bold text-[#461B36] hover:bg-[#461B30]/25"

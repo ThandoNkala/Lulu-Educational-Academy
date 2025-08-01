@@ -57,7 +57,7 @@ function Footer() {
           </div>
         </div>
       </section>
-      <hr className="border border-white font-playfair w-280 md:ml-25 " />
+      <hr className="border border-white font-playfair md:w-280 w-50 md:ml-25 " />
       <div className="py-5 flex md:flex-row flex-col justify-around items-center mt-2 ">
         <p className="text-center text-white ">
           © 2023 Lulu Academy. All rights reserved.
